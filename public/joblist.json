@@ -1,0 +1,272 @@
+[
+    {
+        "job_id": "001",
+        "job_title": "Software Engineer",
+        "salary": "$80,000",
+        "week_day": "Monday",
+        "bonus": "$5,000",
+        "location": "New York, NY",
+        "img": "https://i.ibb.co/PzrbTxh/google-1-1-1.png"
+    },
+    {
+        "job_id": "002",
+        "job_title": "Data Analyst",
+        "salary": "$60,000",
+        "week_day": "Tuesday",
+        "bonus": "$3,000",
+        "location": "Los Angeles, CA",
+        "img": "https://i.ibb.co/H4wJGhb/netflix-4-1.png"
+    },
+    {
+        "job_id": "003",
+        "job_title": "Marketing Manager",
+        "salary": "$70,000",
+        "week_day": "Wednesday",
+        "bonus": "$4,000",
+        "location": "Chicago, IL",
+        "img": "https://i.ibb.co/JRXgX92/tesla-9-1.png"
+    },
+    {
+        "job_id": "004",
+        "job_title": "Graphic Designer",
+        "salary": "$55,000",
+        "week_day": "Thursday",
+        "bonus": "$2,500",
+        "location": "San Francisco, CA",
+        "img": "https://i.ibb.co/PzrbTxh/google-1-1-1.png"
+    },
+    {
+        "job_id": "005",
+        "job_title": "Financial Analyst",
+        "salary": "$65,000",
+        "week_day": "Friday",
+        "bonus": "$3,500",
+        "location": "Houston, TX",
+        "img": "https://i.ibb.co/JRXgX92/tesla-9-1.png"
+    },
+    {
+        "job_id": "006",
+        "job_title": "Customer Support Specialist",
+        "salary": "$45,000",
+        "week_day": "Monday",
+        "bonus": "$2,000",
+        "location": "Boston, MA",
+        "img": "https://i.ibb.co/H4wJGhb/netflix-4-1.png"
+    },
+    {
+        "job_id": "007",
+        "job_title": "Sales Representative",
+        "salary": "$50,000",
+        "week_day": "Tuesday",
+        "bonus": "$2,500",
+        "location": "Seattle, WA",
+        "img": "https://i.ibb.co/PzrbTxh/google-1-1-1.png"
+    },
+    {
+        "job_id": "008",
+        "job_title": "HR Manager",
+        "salary": "$75,000",
+        "week_day": "Wednesday",
+        "bonus": "$4,500",
+        "location": "Austin, TX",
+        "img": "https://i.ibb.co/H4wJGhb/netflix-4-1.png"
+    },
+    {
+        "job_id": "009",
+        "job_title": "Web Developer",
+        "salary": "$70,000",
+        "week_day": "Thursday",
+        "bonus": "$3,000",
+        "location": "Denver, CO",
+        "img": "https://i.ibb.co/JRXgX92/tesla-9-1.png"
+    },
+    {
+        "job_id": "010",
+        "job_title": "Accountant",
+        "salary": "$60,000",
+        "week_day": "Friday",
+        "bonus": "$2,500",
+        "location": "Miami, FL",
+        "img": "https://i.ibb.co/PzrbTxh/google-1-1-1.png"
+    },
+    {
+        "job_id": "011",
+        "job_title": "Project Manager",
+        "salary": "$85,000",
+        "week_day": "Monday",
+        "bonus": "$4,000",
+        "location": "Philadelphia, PA",
+        "img": "https://i.ibb.co/JRXgX92/tesla-9-1.png"
+    },
+    {
+        "job_id": "012",
+        "job_title": "Content Writer",
+        "salary": "$45,000",
+        "week_day": "Tuesday",
+        "bonus": "$2,000",
+        "location": "San Diego, CA",
+        "img": "https://i.ibb.co/H4wJGhb/netflix-4-1.png"
+    },
+    {
+        "job_id": "013",
+        "job_title": "Product Manager",
+        "salary": "$80,000",
+        "week_day": "Wednesday",
+        "bonus": "$4,500",
+        "location": "Dallas, TX",
+        "img": "https://i.ibb.co/PzrbTxh/google-1-1-1.png"
+    },
+    {
+        "job_id": "014",
+        "job_title": "UX Designer",
+        "salary": "$65,000",
+        "week_day": "Thursday",
+        "bonus": "$3,000",
+        "location": "Phoenix, AZ",
+        "img": "https://i.ibb.co/H4wJGhb/netflix-4-1.png"
+    },
+    {
+        "job_id": "015",
+        "job_title": "IT Support Specialist",
+        "salary": "$55,000",
+        "week_day": "Friday",
+        "bonus": "$2,500",
+        "location": "Atlanta, GA",
+        "img": "https://i.ibb.co/H4wJGhb/netflix-4-1.png"
+    },
+    {
+        "job_id": "016",
+        "job_title": "Digital Marketing Specialist",
+        "salary": "$70,000",
+        "week_day": "Monday",
+        "bonus": "$3,500",
+        "location": "Minneapolis, MN",
+        "img": "https://i.ibb.co/JRXgX92/tesla-9-1.png"
+    },
+    {
+        "job_id": "017",
+        "job_title": "Software Developer",
+        "salary": "$75,000",
+        "week_day": "Tuesday",
+        "bonus": "$4,000",
+        "location": "Detroit, MI",
+        "img": "https://i.ibb.co/H4wJGhb/netflix-4-1.png"
+    },
+    {
+        "job_id": "018",
+        "job_title": "Data Scientist",
+        "salary": "$90,000",
+        "week_day": "Wednesday",
+        "bonus": "$5,000",
+        "location": "Portland, OR",
+        "img": "https://i.ibb.co/JRXgX92/tesla-9-1.png"
+    },
+    {
+        "job_id": "019",
+        "job_title": "HR Specialist",
+        "salary": "$55,000",
+        "week_day": "Thursday",
+        "bonus": "$2,500",
+        "location": "Orlando, FL",
+        "img": "https://i.ibb.co/PzrbTxh/google-1-1-1.png"
+    },
+    {
+        "job_id": "020",
+        "job_title": "Financial Planner",
+        "salary": "$80,000",
+        "week_day": "Friday",
+        "bonus": "$4,000",
+        "location": "San Antonio, TX",
+        "img": "https://i.ibb.co/JRXgX92/tesla-9-1.png"
+    },
+    {
+        "job_id": "021",
+        "job_title": "Content Manager",
+        "salary": "$65,000",
+        "week_day": "Monday",
+        "bonus": "$3,000",
+        "location": "Tampa, FL",
+        "img": "https://i.ibb.co/H4wJGhb/netflix-4-1.png"
+    },
+    {
+        "job_id": "022",
+        "job_title": "Sales Manager",
+        "salary": "$75,000",
+        "week_day": "Tuesday",
+        "bonus": "$4,500",
+        "location": "Charlotte, NC",
+        "img": "https://i.ibb.co/PzrbTxh/google-1-1-1.png"
+    },
+    {
+        "job_id": "023",
+        "job_title": "Front-end Developer",
+        "salary": "$70,000",
+        "week_day": "Wednesday",
+        "bonus": "$3,500",
+        "location": "Denver, CO",
+        "img": "https://i.ibb.co/H4wJGhb/netflix-4-1.png"
+    },
+    {
+        "job_id": "024",
+        "job_title": "Account Executive",
+        "salary": "$60,000",
+        "week_day": "Thursday",
+        "bonus": "$2,500",
+        "location": "Seattle, WA",
+        "img": "https://i.ibb.co/PzrbTxh/google-1-1-1.png"
+    },
+    {
+        "job_id": "025",
+        "job_title": "Marketing Coordinator",
+        "salary": "$50,000",
+        "week_day": "Friday",
+        "bonus": "$2,000",
+        "location": "Austin, TX",
+        "img": "https://i.ibb.co/H4wJGhb/netflix-4-1.png"
+    },
+    {
+        "job_id": "026",
+        "job_title": "Software Tester",
+        "salary": "$55,000",
+        "week_day": "Monday",
+        "bonus": "$2,500",
+        "location": "Phoenix, AZ",
+        "img": "https://i.ibb.co/JRXgX92/tesla-9-1.png"
+    },
+    {
+        "job_id": "027",
+        "job_title": "UI Designer",
+        "salary": "$65,000",
+        "week_day": "Tuesday",
+        "bonus": "$3,000",
+        "location": "San Francisco, CA",
+        "img": "https://i.ibb.co/H4wJGhb/netflix-4-1.png"
+    },
+    {
+        "job_id": "028",
+        "job_title": "Operations Manager",
+        "salary": "$80,000",
+        "week_day": "Wednesday",
+        "bonus": "$4,000",
+        "location": "Chicago, IL",
+        "img": "https://i.ibb.co/PzrbTxh/google-1-1-1.png"
+    },
+    {
+        "job_id": "029",
+        "job_title": "Data Entry Clerk",
+        "salary": "$45,000",
+        "week_day": "Thursday",
+        "bonus": "$2,000",
+        "location": "Los Angeles, CA",
+        "img": "https://i.ibb.co/H4wJGhb/netflix-4-1.png"
+    },
+    {
+        "job_id": "030",
+        "job_title": "Customer Service Representative",
+        "salary": "$40,000",
+        "week_day": "Friday",
+        "bonus": "$2,000",
+        "location": "New York, NY",
+        "img": "https://i.ibb.co/JRXgX92/tesla-9-1.png"
+    }
+]
